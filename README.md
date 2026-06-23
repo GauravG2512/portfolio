@@ -60,27 +60,3 @@ graph TD
 3. **Modal Previews**: Clicking *Read More* on project or certificate rows calls a details portal overlay, providing detailed highlights and screenshots without redirecting the user.
 4. **Serverless Mail Dispatcher**: Submit actions trigger EmailJS which validates parameter payloads and securely forwards messages straight to Google's Mail API.
 
----
-
-## Setup & Run Locally
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/GauravG2512/portfolio.git
-   cd portfolio/Portfolio-main
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production**:
-   ```bash
-   npm run build
-   ```
