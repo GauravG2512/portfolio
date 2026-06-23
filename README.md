@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This is a state-of-the-art, interactive 3D portfolio website showcasing my engineering projects, design expertise, certifications, and technical skillset. 
 
-**Live Link**: [[portfolio-orcin-chi-92.vercel.app](https://portfolio-gauarvg25.vercel.app/)]
+**Live Link**: [https://portfolio-gauarvg25.vercel.app/](https://portfolio-gauarvg25.vercel.app/)
 
 ---
 
